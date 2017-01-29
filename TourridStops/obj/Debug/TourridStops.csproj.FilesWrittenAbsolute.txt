@@ -1,0 +1,15 @@
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/bin/Debug/TourridStops.dll.mdb
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/bin/Debug/TourridStops.dll
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/bin/Debug/com.companyname.tourridstops.apk
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/obj/Debug/android/bin/com.companyname.tourridstops.apk
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/obj/Debug/res/layout/main.xml
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/obj/Debug/res/values/strings.xml
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/obj/Debug/R.cs.flag
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/bin/Debug/com.companyname.tourridstops-Signed.apk
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/obj/Debug/uploadflags.txt
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/obj/Debug/TourridStops.dll
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/obj/Debug/TourridStops.dll.mdb
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/bin/Debug/Xamarin.Android.Support.v13.dll
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/saamaphinda-lebbie/Projects/TourridStops/TourridStops/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
