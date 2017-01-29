@@ -854,7 +854,10 @@ namespace TourridStops
 			public const int beginning = 2131296278;
 			
 			// aapt resource value: 0x7f090040
-			public const int button1 = 2131296320;
+			public const int callButton1 = 2131296320;
+			
+			// aapt resource value: 0x7f090043
+			public const int callButton2 = 2131296323;
 			
 			// aapt resource value: 0x7f09002d
 			public const int checkbox = 2131296301;
@@ -903,6 +906,9 @@ namespace TourridStops
 			
 			// aapt resource value: 0x7f09003d
 			public const int linearLayout1 = 2131296317;
+			
+			// aapt resource value: 0x7f090041
+			public const int linearLayout2 = 2131296321;
 			
 			// aapt resource value: 0x7f090006
 			public const int listMode = 2131296262;
@@ -988,14 +994,17 @@ namespace TourridStops
 			// aapt resource value: 0x7f09003c
 			public const int textView1 = 2131296316;
 			
-			// aapt resource value: 0x7f09003e
-			public const int textView2 = 2131296318;
-			
 			// aapt resource value: 0x7f09002b
 			public const int title = 2131296299;
 			
 			// aapt resource value: 0x7f090020
 			public const int top_action_bar = 2131296288;
+			
+			// aapt resource value: 0x7f09003e
+			public const int tourStop1 = 2131296318;
+			
+			// aapt resource value: 0x7f090042
+			public const int tourStop2 = 2131296322;
 			
 			// aapt resource value: 0x7f090021
 			public const int up = 2131296289;

@@ -1084,6 +1084,8 @@ containing a value of this type.
         public static int activity_chooser_view_content=0x7f090025;
         public static int always=0x7f09000f;
         public static int beginning=0x7f090016;
+        public static int callButton1=0x7f090040;
+        public static int callButton2=0x7f090043;
         public static int checkbox=0x7f09002d;
         public static int collapseActionView=0x7f090010;
         public static int default_activity_button=0x7f090028;
@@ -1099,6 +1101,8 @@ containing a value of this type.
         public static int icon=0x7f09002a;
         public static int ifRoom=0x7f090011;
         public static int image=0x7f090027;
+        public static int linearLayout1=0x7f09003d;
+        public static int linearLayout2=0x7f090041;
         public static int listMode=0x7f090006;
         public static int list_item=0x7f090029;
         public static int middle=0x7f090018;
@@ -1122,11 +1126,15 @@ containing a value of this type.
         public static int showCustom=0x7f09000b;
         public static int showHome=0x7f09000c;
         public static int showTitle=0x7f09000d;
+        public static int space1=0x7f09003f;
         public static int split_action_bar=0x7f09001e;
         public static int submit_area=0x7f090039;
         public static int tabMode=0x7f090008;
+        public static int textView1=0x7f09003c;
         public static int title=0x7f09002b;
         public static int top_action_bar=0x7f090020;
+        public static int tourStop1=0x7f09003e;
+        public static int tourStop2=0x7f090042;
         public static int up=0x7f090021;
         public static int useLogo=0x7f09000e;
         public static int withText=0x7f090013;
@@ -1185,6 +1193,7 @@ containing a value of this type.
         public static int support_simple_spinner_dropdown_item=0x7f030019;
     }
     public static final class string {
+        public static int PageHeader=0x7f0a000e;
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
          */
         public static int abc_action_bar_home_description=0x7f0a0001;
